@@ -1,0 +1,10 @@
+*.orig
+*.rej
+stest.o
+dmenu_run
+dmenu_path
+dmenu.o
+drw.o
+util.o
+dmenu
+stest
